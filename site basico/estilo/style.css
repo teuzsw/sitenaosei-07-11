@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+background-color: rgb(135, 135, 255);
+display: flex;
+align-items: center;
+padding: 17px 0;
+justify-content: space-around;
+}
+
+.listaHeader {
+    text-align: center;
+    display: inline-block;
+    padding: 0 10px ;
+    font-size: 24px;
+    color: white;
+}
+
+.principalMain {
+    background-color: black;
+}
+
+.selecao1 {
+    background-color: blueviolet;
+}
